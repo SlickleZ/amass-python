@@ -1,2 +1,11 @@
 # "Amass" Python Version
-The Income/Expense Management Application I took my free time to develop it when I was 18.
+The income/expenses management application which developed with Python and Xampp.
+
+# Functions
+  * Add income/expenses record.
+  * Drop and create table.
+  * Export all records to .csv file.
+
+# Preview
+![picture alt](https://github.com/SlickleZ/amass-python/blob/main/Amass_Python.jpg?raw=true)
+
