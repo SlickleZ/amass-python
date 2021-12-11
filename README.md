@@ -1,5 +1,5 @@
 # "Amass" Python Version
-The income/expenses management application which developed with Python and Xampp.
+The income/expenses management application which developed with Python and XAMPP.
 
 # Functions
   * Add income/expenses record.
